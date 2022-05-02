@@ -1,0 +1,15 @@
+.Card{
+margin: 10px;
+border-radius: 5px;
+/* display: flex; */
+}    
+img{
+    height: 250px;
+}
+.col-sm-3 {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.text{
+    height: 100px;
+}

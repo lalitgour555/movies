@@ -1,0 +1,32 @@
+
+.footer-bottom{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: black;
+    color: white;
+}
+.footer-content{
+    background-color: black;
+    color: white;
+}
+.socials{
+    align-items: center;
+    display: flex;
+   justify-content: center;
+    list-style: none;
+}
+.falarge{ font-size: 30px;
+
+}
+.fa{
+    
+    padding: 5px;
+    align-items: center;
+    margin: 4px;
+}
+footer{
+    background-color: black;
+}
+#h3:hover{
+    color: red 
+}
