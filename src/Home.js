@@ -1,6 +1,6 @@
 // import { Home } from "@mui/icons-material";
 import { Category } from '@mui/icons-material';
-import {React , filterResult} from 'react'
+import {React} from 'react'
 import { Nav } from 'react-bootstrap';
 import './Home.css'
 
@@ -32,7 +32,7 @@ import './Home.css'
   <div class="searchBox">
 
 <input class="searchInput"type="text" name="" placeholder="Search"/>
-<button onClick={()=>filterResult} class="searchButton"  href="#">
+<button  class="searchButton"  href="#">
     <i class="material-icons">
         search
     </i>
